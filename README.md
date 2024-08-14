@@ -1,5 +1,5 @@
 ## Linguagens de programação que conheço 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> width="10" height="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30"/>
           
 <img src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue.png" width="30" height="30"/> <img src="https://www.svgrepo.com/show/376344/python.svg"  width="30" height="30"/>
 
