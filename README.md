@@ -14,3 +14,8 @@
 ## Linguagem de marcação
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="30" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="30" height="30"/>
           
+<div>
+<a href="https://github.com/MariaJuliaMouraR">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaJuliaMouraR&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaJuliaMouraR-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
