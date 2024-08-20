@@ -1,7 +1,7 @@
 ## BEM VINDO AO MEU GITHUB
 <P> Oii, eu sou a Maju! Estou cursando o 6º semestre de Análise e Desenvolvimento de Sistemas na Fatec de Presidente Prudente/SP.  </P>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MariaJuliaMouraR/MariaJuliaMouraR/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="30" height="30" />
