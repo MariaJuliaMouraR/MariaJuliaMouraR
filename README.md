@@ -1,4 +1,4 @@
- ♡♡♡ <img src="https://github.com/MariaJuliaMouraR/MariaJuliaMouraR/blob/main/images.png?raw=true" /><img src="https://github.com/MariaJuliaMouraR/MariaJuliaMouraR/blob/main/images.png?raw=true" /> ♡♡♡
+ ♡ <img src="https://github.com/MariaJuliaMouraR/MariaJuliaMouraR/blob/main/images.png?raw=true" /><img src="https://github.com/MariaJuliaMouraR/MariaJuliaMouraR/blob/main/images.png?raw=true" /> ♡
 
 ## BEM VINDO AO MEU GITHUB
 <P> Oii, eu sou a Maju! Estou cursando o 6º semestre de Análise e Desenvolvimento de Sistemas na Fatec de Presidente Prudente/SP.  </P>
