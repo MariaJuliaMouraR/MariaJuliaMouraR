@@ -5,7 +5,6 @@
 <p>E-mail: mariajuliamourar@gmail.com</p>
 <p>LinkedIn: </p>
 
-![Snake animation](https://github.com/MariaJuliaMouraR/MariaJuliaMouraR/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="30" height="30" />
