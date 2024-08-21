@@ -1,4 +1,4 @@
- <p><a href="" widtf="100% height="auto"/><a/></p>
+ <p><a href="https://github.com/MariaJuliaMouraR/MariaJuliaMouraR/blob/main/images.png?raw=true"widtf="100% height="auto"/><a/></p>
 
 ## BEM VINDO AO MEU GITHUB
 <P> Oii, eu sou a Maju! Estou cursando o 6º semestre de Análise e Desenvolvimento de Sistemas na Fatec de Presidente Prudente/SP.  </P>
